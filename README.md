@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://i.imgur.com/QUsKDyA.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
   Meu nome é Lucas Cerqueira, <strong>desenvolvedor web</strong> e ultimamente tenho aperfeiçoado meus conhecimentos em <b>back-end</b>.
