@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens / Frameworks: <strong>Java (Spring Boot), CSS, HTML, Bootstrap</strong>
+  🦄 Linguagens / Frameworks: <strong>Java (Spring Boot), CSS, HTML, Bootstrap, Python</strong>
 </p>
 
 <p align="left">
